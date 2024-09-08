@@ -3,6 +3,22 @@
 ## Overview
 This **Android Journal App** is a personal journaling application that allows users to create, view, edit, and delete journal entries. It incorporates user authentication, image uploads, and real-time data synchronization using Firebase.
 
+## 📸 Screenshots
+
+### App Screens
+
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+  <img src="images/registration.jpg" alt="Registration Screen" width="200"/>
+  <img src="images/signing_in.jpg" alt="Login Screen" width="200"/>
+  <img src="images/journal_list.jpg" alt="Journal List" width="200"/>
+</div>
+
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="images/create_journal.jpg" alt="Create New Entry" width="200"/>
+  <img src="images/editjournal.jpg" alt="Edit Entry" width="200"/>
+</div>
+
+
 ## Features
 - 🔒 **User Registration and Authentication**
 - 🖋️ **Create new journal entries with text and images**
